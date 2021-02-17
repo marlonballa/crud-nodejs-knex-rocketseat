@@ -1,0 +1,20 @@
+{
+  "name": "Masterclass-CRUD",
+  "version": "1.0.0",
+  "description": "Masterclass Rocketseat CRUD",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonballa/crud-nodejs-knex-rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlonballa/crud-nodejs-knex-rocketseat/issues"
+  },
+  "homepage": "https://github.com/marlonballa/crud-nodejs-knex-rocketseat#readme"
+}
